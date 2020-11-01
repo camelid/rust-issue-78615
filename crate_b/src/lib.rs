@@ -1,5 +1,5 @@
 use crate_a::MyTrait;
 
-struct MyStruct;
+pub struct MyStruct;
 
 impl MyTrait for MyStruct {}
